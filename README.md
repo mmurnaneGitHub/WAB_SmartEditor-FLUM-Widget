@@ -5,8 +5,8 @@ Version 2.12
 
 INSTRUCTIONS:
 1. Copy Widget.js to \widgets\SmartEditor\Widget.js
-2. Copy strings.js to \widgets\SmartEditor\nls\strings.js 
-3. Copy popup.css to \jimu.js\css\popup.css
+2. Copy popup.css to \jimu.js\css\popup.css
+3. Copy strings.js to \widgets\SmartEditor\nls\strings.js 
 
 
 
