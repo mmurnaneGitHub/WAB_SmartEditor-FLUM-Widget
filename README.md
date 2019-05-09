@@ -1,5 +1,6 @@
 ## WAB_SmartEditor-Widget
-Customized SmartEditor Widget (Add Comment) for FLUM and Tideflats Subarea Plan. 
+Customized SmartEditor Widget (Add Comment) for FLUM and Tideflats Subarea Plan.
+
 Version 2.12
 
 INSTRUCTIONS:
