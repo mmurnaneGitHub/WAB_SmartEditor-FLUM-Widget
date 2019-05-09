@@ -7,7 +7,9 @@ INSTRUCTIONS:
 1. Copy Widget.js to \widgets\SmartEditor\Widget.js
 2. Copy strings.js to \widgets\SmartEditor\nls\strings.js 
 3. Copy popup.css to \jimu.js\css\popup.css
-   
+
+
+
 Note: Add alias to config file (not an option in WAB):  "label": "Contact Info (Optional)"
 * Widget.js toggles Summary button off to start editing and removes snapping text from mouse tooltip.
 * strings.js changes label to " Allow movement of point"
