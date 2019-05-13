@@ -11,9 +11,9 @@ INSTRUCTIONS:
 
 
 Note: Add alias to config file (not an option in WAB):  "label": "Contact Info (Optional)"
-* Widget.js toggles Summary button off to start editing and removes snapping text from mouse tooltip.
-* strings.js changes label to " Allow movement of point"
 * popup.css removes edit ability from map marker popup.
+* strings.js changes label to " Allow movement of point"
+* Widget.js toggles Summary button off to start editing and removes snapping text from mouse tooltip.
 
 FUTURE RELEASE: Increase comment (and contact) box height and add word-wrap (DIDN'T WORK) (.dijitTextBox - height: 100px; word-wrap: break-word;) in /jimu.js/css/dojo-override.css
 
