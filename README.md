@@ -4,10 +4,9 @@ Customized SmartEditor Widget (Add Comment) for FLUM (https://wspdsmap.cityoftac
 Version 2.12
 
 INSTRUCTIONS:
-1. Copy Widget.js to \widgets\SmartEditor\Widget.js
-2. Copy popup.css to \jimu.js\css\popup.css
-3. Copy strings.js to \widgets\SmartEditor\nls\strings.js 
-
+1. Copy popup.css to \jimu.js\css\popup.css
+2. Copy strings.js to \widgets\SmartEditor\nls\strings.js 
+3. Copy Widget.js to \widgets\SmartEditor\Widget.js
 
 
 Note: Add alias to config file (not an option in WAB):  "label": "Contact Info (Optional)"
