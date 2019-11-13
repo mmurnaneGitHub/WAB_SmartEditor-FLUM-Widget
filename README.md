@@ -1,7 +1,7 @@
 ## WAB_SmartEditor-FLUM-Widget
 Customized SmartEditor Widget (Add Comment) for FLUM (https://wspdsmap.cityoftacoma.org/website/FLUM/) and Tideflats Subarea Plan (https://wspdsmap.cityoftacoma.org/website/PDS/Tideflats/).
 
-Version 2.13
+Version 2.14
 
 INSTRUCTIONS:
 1. Copy popup.css to \jimu.js\css\popup.css
